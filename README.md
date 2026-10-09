@@ -1,22 +1,14 @@
 \# SalesAI – Sales Forecasting and Business Intelligence Dashboard
 
+**Live Dashboard:** [Open SalesAI Dashboard](https://salesai-4pclppnmbenqwiakt9uexy.streamlit.app/)
 
-
-\## About the Project
-
-
+An end-to-end sales forecasting and business intelligence project that analyzes historical store sales and predicts future sales using machine learning.
 
 SalesAI is a machine-learning-based sales forecasting and business intelligence project. It analyzes historical sales data, identifies sales trends, compares store performance, and forecasts future sales.
 
-
-
 I developed this project to gain practical experience in Python, data analysis, machine learning, and dashboard development. The aim is to transform raw sales data into useful insights that can support better business decisions.
 
-
-
 \## Key Features
-
-
 
 \* Historical sales analysis and visualization.
 
