@@ -1,0 +1,16 @@
+Store
+Holiday_Flag
+Temperature
+Fuel_Price
+CPI
+Unemployment
+Year
+Month
+Quarter
+Week
+Lag_1
+Lag_2
+Lag_4
+Lag_8
+Rolling_Mean_4
+Rolling_Mean_8
